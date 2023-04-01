@@ -1,0 +1,44 @@
+.container{
+    margin-top: 30px !important;
+    min-height: 50vh;
+    min-width: 100lh;
+
+}
+
+
+.hello-p{
+    font-size: 28px !important;
+    font-weight: 700;
+}
+
+.hello-name{
+    color: #65E704;
+    font-size: 44px !important;
+    font-weight: bolder;
+    line-height: 14px !important;
+}
+
+.hello-surname{
+    margin-left: 88px !important;
+}
+
+
+.profile-pic{
+    margin-top: 40px !important;
+    border-radius: 50%;
+}
+
+
+.yr-count{
+    font-size: 60px !important;
+    font-weight: bold;
+    color: #333638;
+    /* margin-left: 180px !important; */
+}
+
+.yr-text{
+    font-size: 30px !important;
+    color: #333638;
+    word-break: break-all;
+    margin-left: 10px;
+}

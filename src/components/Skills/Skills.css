@@ -1,0 +1,31 @@
+
+.skills-container{
+    margin-top: 30px !important;
+    min-height: 30vh;
+
+    min-width: 50lh;
+    float: right;
+    text-align: left;
+
+}
+
+.heading{
+    margin-left: 140px !important;
+    padding-left: 60px !important;
+    color: #65E704;
+    font-size: 30px !important;
+    font-weight: bolder;
+    line-height: 14px !important;
+}
+
+.skill-images-container{
+    margin-left: 140px !important;
+    padding-left: 60px !important;
+}
+
+.skill-images{
+    height: 15vh;
+    width: 15vh;
+    margin-right: 40px;
+    margin-top: 30px;
+}
