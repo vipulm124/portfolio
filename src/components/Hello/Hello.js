@@ -27,7 +27,7 @@ export default function Hello() {
         <div >
             <p className='hello-p'>Hello, I am</p>
             <p className='hello-name'>&lt; Vipul</p>
-            <p className='hello-name hello-surname'>Malhotra / &gt;</p>
+            <p className='hello-name hello-surname'>Malhotra / &gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
             <p className='hello-stack'>Azure Cloud Developer</p>
             <p className='hello-stack'>Fullstack Developer</p>
             <p className='hello-stack'>React Native Developer</p>
@@ -44,6 +44,7 @@ export default function Hello() {
         </Item>
 
       </Stack>
+
 
     </div>
 

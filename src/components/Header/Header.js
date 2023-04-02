@@ -59,7 +59,7 @@ function ResponsiveAppBar() {
               letterSpacing: '.3rem',
               color: 'inherit',
               textDecoration: 'none',
-              fontSize: '1.5rem'
+              fontSize: '1.25rem'
             }}
           >
             <span className='first-name'>VIPUL</span> MALHOTRA
@@ -93,6 +93,7 @@ function ResponsiveAppBar() {
               sx={{
                 display: { xs: 'block', md: 'none' },
               }}
+              
             >
               {socialMedia.map((page) => (
                 <MenuItem key={page} onClick={handleCloseNavMenu}>
@@ -117,7 +118,7 @@ function ResponsiveAppBar() {
               letterSpacing: '.3rem',
               color: 'inherit',
               textDecoration: 'none',
-              fontSize: '1.5rem'
+              fontSize: '1.25rem'
             }}
           >
             <span className='first-name'>VIPUL</span> MALHOTRA

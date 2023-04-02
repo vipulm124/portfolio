@@ -25,11 +25,11 @@ background-color: inherit;
 }
 
 .hello-surname{
-    margin-left: 60px !important;
+    margin-left: 40px !important;
 }
 
 .hello-stack{
-    font-size: 28px !important;
+    font-size: 24px !important;
     font-weight: 700;
     color: #FFFFFF;
     line-height: 20px !important;
@@ -52,7 +52,7 @@ background-color: inherit;
 
 .yr-text{
     font-size: 30px !important;
-    color: #333638;
+    color: #FFFFFF;
     word-wrap: break-word;
     word-break:keep-all;
     margin-left: 10px;
