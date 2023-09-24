@@ -35,7 +35,7 @@ export default function Hello() {
         </Item>
         <Item className='stack-item'>
         <div >
-            <img src='https://media.licdn.com/dms/image/C4D03AQEyUCzU1GTYkg/profile-displayphoto-shrink_800_800/0/1648457056150?e=1685577600&v=beta&t=sP6OK4LOOv0uLz_NzWeKed5vqQEElspwL7vM4TwDSLA' alt='Profile Pic' className='profile-pic'/>
+            <img src='https://media.licdn.com/dms/image/C4D03AQEyUCzU1GTYkg/profile-displayphoto-shrink_800_800/0/1648457056150?e=1701302400&v=beta&t=BLLDzB2_Kpn31ji3j980T-eMkskOdE7plMSKj5pnHIM' alt='Profile Pic' className='profile-pic'/>
             <div>
               <span className='yr-count'>10</span>
               <span className='yr-text'>YEARS OF EXPERIENCE</span>
