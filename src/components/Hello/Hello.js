@@ -25,7 +25,7 @@ export default function Hello() {
       >
         <Item className='stack-item' >
         <div >
-            <p className='hello-p'>Hello, I am</p>
+            <p className='hello-p'>Hello, I'm</p>
             <p className='hello-name'>&lt; Vipul</p>
             <p className='hello-name hello-surname'>Malhotra / &gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
             <p className='hello-stack'>Azure Cloud Developer</p>
