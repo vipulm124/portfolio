@@ -1,0 +1,139 @@
+[
+    {
+        "id": "1",
+        "title": "qrstyler: The Ultimate Python Library for Custom QR Codes",
+        "description": "Python library created for generating highly customizable and visually appealing QR codes.",
+        "image": "https://lh3.googleusercontent.com/d/1EQ-Kth748Pqn8SQdDnXTnHOpvbdZb_3x",
+        "tags": [
+            "Python",
+            "QR Code",
+            "Customization",
+            "Visually Appealing"
+        ],
+        "codeLink": "https://pypi.org/project/qrstyler/",
+        "demoLink": "https://youtu.be/HmGlRo32Yd0"
+    },
+    {
+        "id": "2",
+        "title": "Detect Emotions from Images Using Grok-4 and Streamlit | AI Image Emotion Detector",
+        "description": "Web app that detects emotions from images using Grok-4 and Streamlit.",
+        "image": "https://lh3.googleusercontent.com/d/11aeheahRS2-Uj59PV8IN6t92ifhu3mWD",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "Grok-4"
+        ],
+        "codeLink": "https://github.com/vipulm124/llm-apps/",
+        "demoLink": "https://youtu.be/4h1OfMuNA4o"
+    },
+    {
+        "id": "3",
+        "title": "Use ChatGPT to Analyze Your Shopping Cart Like a Pro!",
+        "description": "Use ChatGPT to inspect a shopping cart on any website, extract product details, and ask intelligent questions about what's in your cart — including price comparisons, nutritional facts, and more!",
+        "image": "https://lh3.googleusercontent.com/d/1_EJW132CmM0tiox6-gLFkEY03E-O1lQF",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "Grok-4"
+        ],
+        "codeLink": "https://github.com/vipulm124/llm-apps/",
+        "demoLink": "https://youtu.be/BIaUSipcV_M"
+    },
+    {
+        "id": "4",
+        "title": "I Built the Classic Snake Game Using Python! 🐍 (Full Code Walkthrough)",
+        "description": "Beginners game development with pygame.",
+        "image": "https://lh3.googleusercontent.com/d/1Rx-pw14Y-jyL9hrs9qAY8Cm8TnSKdr8m",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "Grok-4"
+        ],
+        "codeLink": "https://github.com/vipulm124/snake-python",
+        "demoLink": "https://youtu.be/nAWp6y7xy2c"
+    },
+    {
+        "id": "5",
+        "title": "Automate PDF Unlocking: From Gmail to Google Drive (No Manual Steps!)",
+        "description": "Automate PDF Unlocking: From Gmail to Google Drive (No Manual Steps!). Tired of downloading password-protected PDFs from your Gmail, unlocking them, and then uploading to Google Drive manually?",
+        "image": "https://lh3.googleusercontent.com/d/1V8bmfxV9rVFECTvcYj3PcmqkVXnmqebh",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "Gmail",
+            "Google Drive",
+            "PDF"
+        ],
+        "codeLink": "",
+        "demoLink": "https://youtu.be/u8vr8BbKin4"
+    },
+    {
+        "id": "6",
+        "title": "Boring X - Make Twitter Boring | Chrome Extension for Productivity & Focus",
+        "description": "This Chrome extension is designed to make Twitter boring, so you can break free from distractions and take back control of your time.",
+        "image": "https://lh3.googleusercontent.com/d/1TswGoG8PPHLOu8_f3TCKQMfNVi9F9z2t",
+        "tags": [
+            "Javascript",
+            "Twitter",
+            "Chrome Extension",
+            "Productivity",
+            "Focus"
+        ],
+        "codeLink": "https://chromewebstore.google.com/detail/boring-x/njjlikigbflidkddjflbplnlfkillcpe",
+        "demoLink": "https://youtu.be/IQDnMV4hOFE"
+    },
+    {
+        "id": "7",
+        "title": "Handy-Links | Chrome Extension to Keep Your Most Used Links Handy",
+        "description": "With Handly-Links, a Chrome extension, you can keep your most-used links just a right-click away!",
+        "image": "https://lh3.googleusercontent.com/d/12hreTr720vS1S5RbWQlmUXpffbfA2Qpl",
+        "tags": [
+            "Javascript",
+            "Chrome Extension",
+            "Productivity",
+            "Focus"
+        ],
+        "codeLink": "https://chromewebstore.google.com/detail/handy-links/mfhgonmedmkpgibomffmjfogmdolelke",
+        "demoLink": "https://youtu.be/d-lj8FXtNZo"
+    },
+    {
+        "id": "8",
+        "title": "Talk to Your AI Life Coach – Get Motivated Instantly with Voice Chat!",
+        "description": "Imagine having a personal life coach available anytime you need motivation or guidance — all through simple voice interaction!",
+        "image": "https://lh3.googleusercontent.com/d/1rRtvVy4d44ws2lHZYmjMCyXVBYZMPyOC",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "OpenAI",
+            "Voice Chat"
+        ],
+        "codeLink": "",
+        "demoLink": "https://youtu.be/mcvaxhcQKb8"
+    },
+    {
+        "id": "9",
+        "title": "AI File Organization: Rename Images Automatically with Azure AI Vision!",
+        "description": "Are your image files a mess of IMG_0001.jpg and photo_new.png? This app shows you how to bring order to your digital assets using the power of Artificial Intelligence!",
+        "image": "https://lh3.googleusercontent.com/d/1F-c9fn6ARX4YW0wqM74nEMuGIY41fE51",
+        "tags": [
+            "Python",
+            "Streamlit",
+            "Azure AI Vision"
+        ],
+        "codeLink": "",
+        "demoLink": "https://youtu.be/QWPry2sMrkY"
+    },
+    {
+        "id": "10",
+        "title": "PWA to Track My Slip Disc Recovery | React.js Health Tracker",
+        "description": "A Progressive Web App (PWA) built with React.js to track slip disc recovery progress.",
+        "image": "https://d35oenyzp35321.cloudfront.net/Slip_Disc_Symptoms_376cbeb088.jpg",
+        "tags": [
+            "React.js",
+            "PWA",
+            "Health Tracker"
+        ],
+        "codeLink": "",
+        "demoLink": "https://youtu.be/x8cfq0c6OsE"
+    }
+]

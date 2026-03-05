@@ -1,0 +1,97 @@
+{
+    "summary": "Azure-certified Software Engineer with 13 years of experience in full-stack application development, automation frameworks, and scalable ETL pipelines. Proficient in Python, SQL, PySpark, React.js with deep expertise in Azure services including AZStorage, AZFunctions, AZSQLDB, AZSynapse, AZDatabricks, ARM Templates, AZService Bus & Queues, Entra ID, Logic Apps, App Services, WebJobs, and Azure DevOps.",
+    "experience": [
+        {
+            "title": "Principal Consultant",
+            "company": "Wipro",
+            "startDate": "Mar 2023",
+            "endDate": "Present",
+            "description": "Engineered a Python and React-based microservices architecture on Azure that automated regional cost calculations, slashing processing time from one week to real-time. This digital transformation boosted overall productivity by 30% while securing critical credentials and configurations via Azure Key Vault and AKS. Developed a centralized monitoring dashboard with mocked high-priority functionalities and integrated Microsoft Teams alerts to accelerate debugging and reduce downtime. Optimized enterprise data ingestion into Snowflake by implementing load forecasting and API rate-limiting, which saved thousands of euros in licensing costs. Strengthened data security through robust database design and managed restricted access protocols across various sensitive data streams. Streamlined exchange data acquisition by deploying a dedicated VM and custom parser, eliminating manual log searching and reducing operational overhead.",
+            "technologies": [
+                "Python",
+                "FASTAPI",
+                "Docker",
+                "Azure",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Technical Lead",
+            "company": "Centric Consulting",
+            "startDate": "July 2022",
+            "endDate": "Mar 2023",
+            "description": "Developed a full-stack demand and resource mapping solution using React.js and .NET Core to streamline internal client requirements. Engineered an automated Python and Azure Service Bus pipeline to synchronize Microsoft Dynamics 365 and Snowflake, ensuring data reliability via an eventual-consistency model. Eliminated manual data migration and synchronization tasks, significantly improving operational efficiency while saving substantial hours and budget.",
+            "technologies": [
+                "Python",
+                "FASTAPI",
+                "Azure"
+            ]
+        },
+        {
+            "title": "Senior Software Developer --> Team Lead",
+            "company": "Sapient Consulting",
+            "startDate": "Jan 2018",
+            "endDate": "Jun 2022",
+            "description": "Developed and deployed a strategic analysis tool using React.js and .NET Core that enables clients to identify optimal product combinations for maximum profitability. Transformed a manual two-week Excel process into an automated Gross Margin application using Azure Functions and Logic Apps, reducing the cycle to a single day. Engineered a centralized Microsoft enterprise data warehouse leveraging Azure Data Factory, Databricks, and PySpark to create a unified single source of truth. Streamlined data ingestion from multiple balancing systems through custom Azure Function solutions to enhance operational accuracy and integration. Designed and implemented automated CI/CD pipelines to ensure faster, more reliable, and consistent software releases across all development environments. Modernized enterprise-wide reporting and analytics by automating complex data flows into a scalable, cloud-based repository.",
+            "technologies": [
+                "Python",
+                "FASTAPI",
+                "Azure",
+                "Azure Synapse",
+                "Databricks"
+            ]
+        },
+        {
+            "title": "Software Engineer I --> Software Engineer II",
+            "company": "AON Hewitt",
+            "startDate": "Apr 2015",
+            "endDate": "Dec 2017",
+            "description": "Developed a full-stack strategic software solution using React.js and .NET Core to analyze product combinations and maximize client profitability. Engineered optimized SQL stored procedures to transform raw data into structured, analytics-ready formats for seamless BI integration. Designed and maintained robust C# Web API endpoints to securely expose critical functionality and enhance platform scalability.",
+            "technologies": [
+                "C#",
+                "SQL",
+                "React"
+            ]
+        },
+        {
+            "title": "Assistant Systems Engineer",
+            "company": "TATA Consultancy Services",
+            "startDate": "Mar 2013",
+            "endDate": "Apr 2015",
+            "description": "Collaborated directly with client business teams to translate complex requirements into technical specifications and accurate project timelines. Designed and implemented scalable C# Web API endpoints to support seamless integration across both web and mobile platforms. Streamlined feature deployment and improved cross-team efficiency by exposing critical application functionality through robust API design.",
+            "technologies": [
+                "C#",
+                "SQL"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Uttar Pradesh Technical University",
+            "graduationDate": "August 2013"
+        }
+    ],
+    "certifications": [
+        {
+            "degree": "Microsoft Certified: Azure Developer Associate"
+        },
+        {
+            "degree": "Microsoft Certified: Azure Fundamentals"
+        },
+        {
+            "degree": "Microsoft Certified: Azure AI Fundamentals"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Python",
+        "SQL",
+        "NoSQL",
+        "Git",
+        "Docker",
+        "Azure"
+    ]
+}

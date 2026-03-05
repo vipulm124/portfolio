@@ -1,0 +1,1253 @@
+[
+    {
+        "id": 98,
+        "title": "Making Python Functions Accept Both Sync and Async Callables",
+        "description": "In Python development, especially when building utility functions or decorators, it’s common to pass other functions as arguments...",
+        "link": "https://medium.com/@vipulm124/making-python-functions-accept-both-sync-and-async-callables-d26fa3ab0414",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "295",
+        "date": "Jul 5, 2025"
+    },
+    {
+        "id": 99,
+        "title": "FASTAPI — Lifespan",
+        "description": "Imagine a FastAPI application where nearly every endpoint needs to access a shared resource, such as a large dataset from a file or a loaded machine learning model. A naive approach would be to read the file or load the model on every single request.",
+        "link": "https://medium.com/@vipulm124/fastapi-lifespan-bbdd7c32c6c4",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "160",
+        "date": "Nov 28, 2025"
+    },
+    {
+        "id": 100,
+        "title": "UV’s Global Cache for Dependency Deduplication",
+        "description": "Python UV is designed for speed and efficiency, and its global caching mechanism is a key component of this. The core principle is simple: a package is downloaded and built only once, and that artifact is reused across all projects and virtual environments",
+        "link": "https://medium.com/@vipulm124/uvs-global-cache-for-dependency-deduplication-7e7404cb2f88",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "125",
+        "date": "Nov 05, 2025"
+    },
+    {
+        "id": 103,
+        "title": "My experience in clearing AI-900 certification",
+        "description": "So, I cleared AI 900 this month, making it my 3rd Azure certification, cheers to me. I wanted to share the resources that I had gone through for clearing this",
+        "link": "https://medium.com/@vipulm124/my-experience-in-clearing-ai-900-certification-18eb78826ab4",
+        "tags": [
+            "azure"
+        ],
+        "source": "Medium",
+        "views": "45",
+        "date": "Nov 13, 2025"
+    },
+    {
+        "id": 104,
+        "title": "Microsoft Enterprice Datawarehouse architecture",
+        "description": "Back in 2019, when the world was still a better place, mornings were bright, future was promising and Covid was still an unknown term, I had a meeting with my manager.",
+        "link": "https://medium.com/@vipulm124/microsoft-enterprice-datawarehouse-architecture-d81a4e970ea4",
+        "tags": [
+            "azure",
+            "datawarehouse",
+            "distributed systems"
+        ],
+        "source": "Medium",
+        "views": "28",
+        "date": "Sep 15, 2025"
+    },
+    {
+        "id": 102,
+        "title": "Python — Multithreading vs Multiprocessing vs Asyncio",
+        "description": "When it comes to python(specially CPython), there has always been a recurring confusion between multithreading, multiprocessing and async keywords. Now, this might just be the case with me, but I thought of putting this article out there",
+        "link": "https://medium.com/@vipulm124/python-multithreading-vs-multiprocessing-vs-asyncio-f09213b141f5",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "23",
+        "date": "Sep 04, 2025"
+    },
+    {
+        "id": 97,
+        "title": "Python Logging Prefix: The Power of Decorator + Context Manager",
+        "description": "As part of my normal (read: lazy) habit, I was sprinkling logs throughout my Python code — INFO, WARNING, ERROR, you name it. Life was good. Until…",
+        "link": "https://medium.com/@vipulm124/python-logging-prefix-the-power-of-decorator-context-manager-0a3bc18f9154",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "83",
+        "date": "May 24, 2025"
+    },
+    {
+        "id": 96,
+        "title": "ReactJs Hooks: useCallback and useMemo",
+        "description": "React hooks introduced a paradigm shift in managing state and side effects in functional components. Among them, two hooks..",
+        "link": "https://medium.com/@vipulm124/reactjs-hooks-usecallback-and-usememo-012ad04da554",
+        "tags": [
+            "reactjs"
+        ],
+        "source": "Medium",
+        "views": "20",
+        "date": "Sep 02, 2024"
+    },
+    {
+        "id": 105,
+        "title": "Reclaiming GBs of Storage with a Simple Python Janitor",
+        "description": "As developers, our local machines are often graveyards of abandoned side projects. While the source code of these experiments is lightweight, their dependencies are anything but. If you work within the JavaScript ecosystem, you know the culprit: the node_modules folder.",
+        "link": "https://medium.com/@vipulm124/reclaiming-gbs-of-storage-with-a-simple-python-janitor-f2838a87f6c7",
+        "tags": [
+            "python",
+            "OS"
+        ],
+        "source": "Medium",
+        "views": "4",
+        "date": "Feb 16, 2026"
+    },
+    {
+        "id": 80,
+        "title": "Use Log4Net in C# Console Application",
+        "description": "This blog is to show an example on how to use the Log4Net library in C# console application.",
+        "link": "https://www.c-sharpcorner.com/blogs/use-log4net-in-c-sharp-console-application",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "303.9k",
+        "date": "Jan 20, 2016"
+    },
+    {
+        "id": 57,
+        "title": "Create Splash Screen in WPF",
+        "description": "This article shows how to make a splash screen in a WPF application.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/create-splash-screen-in-wpf/",
+        "tags": [
+            "wpf"
+        ],
+        "source": "C# Corner",
+        "views": "169.4k",
+        "date": "Jul 21, 2015"
+    },
+    {
+        "id": 58,
+        "title": "Convert PDF to Word Using C#",
+        "description": "This article shows how to how to read a PDF file and then convert it to Word format.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/convert-pdf-to-word-using-C-Sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "151.3k",
+        "date": "Jul 13, 2015"
+    },
+    {
+        "id": 91,
+        "title": "Solving Error - Unable to Create a Constant Value of type 'System.Object' ...",
+        "description": "This blog to help deal with the LINQ error message : Unable to create a constant value of type 'System.Object'. Only primitive types or enumeration types are supported in this context.",
+        "link": "https://www.c-sharpcorner.com/blogs/solving-error-unable-to-create-a-constant-value-of-type-systemobject-only-primitive-types-or-enumeration-types-are-supported-in-this-context1",
+        "tags": [
+            "linq"
+        ],
+        "source": "C# Corner",
+        "views": "109.2k",
+        "date": "Jun 22, 2015"
+    },
+    {
+        "id": 93,
+        "title": "Entity Framework Error on SaveChanges() ",
+        "description": "This blog will show how to solve Entity Framework Error on SaveChanges().",
+        "link": "https://www.c-sharpcorner.com/blogs/entity-framework-error-on-savechanges1",
+        "tags": [
+            "dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "87.4k",
+        "date": "Jun 05, 2015"
+    },
+    {
+        "id": 55,
+        "title": "Calling Parent Page Method From UserControl in C#",
+        "description": "In this article you will learn how to call a parent's page method from a UserControl in C#.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/calling-parent-page-method-from-usercontrol-in-C-Sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "83.8k",
+        "date": "Aug 06, 2015"
+    },
+    {
+        "id": 76,
+        "title": "Using  ng-true-Value and ng-false-Value in AngularJs",
+        "description": "This blog is to learn usage of ng-true-value and ng-false-value in AngularJs.",
+        "link": "https://www.c-sharpcorner.com/blogs/using-ngtruevalue-and-ngfalsevalue-in-angular-js",
+        "tags": [
+            "angular"
+        ],
+        "source": "C# Corner",
+        "views": "78k",
+        "date": "May 15, 2016"
+    },
+    {
+        "id": 59,
+        "title": "Getting Property Values of an Object Dynamically in C#",
+        "description": "This article provides an example of how to get the values of an object dynamically.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/getting-property-values-of-an-object-dynamically-in-C-Sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "75.6k",
+        "date": "Jul 11, 2015"
+    },
+    {
+        "id": 67,
+        "title": "Azure Managed Identity Vs Azure Service Principal",
+        "description": "This blog covers the difference between Azure Managed Identity and Azure Service Principal.",
+        "link": "https://www.c-sharpcorner.com/blogs/azure-managed-identity-vs-azure-service-principal",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "53.4k",
+        "date": "Mar 24, 2023"
+    },
+    {
+        "id": 83,
+        "title": "Merging DataTables by Primary Key",
+        "description": "In this blog we will learn how to provide Primary Key to C# DataTables and then merge them.",
+        "link": "https://www.c-sharpcorner.com/blogs/merging-datatables-by-primary-key1",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "52.9k",
+        "date": "Aug 13, 2015"
+    },
+    {
+        "id": 39,
+        "title": "Circuit Breaker in .NET Core",
+        "description": "This article contains explanation and code sample of how to implement circuit breaker in .net core",
+        "link": "https://www.c-sharpcorner.com/article/circuit-breaker-in-net-core/",
+        "tags": [
+            "dotnetcore"
+        ],
+        "source": "C# Corner",
+        "views": "50.9k",
+        "date": "Oct 04, 2023"
+    },
+    {
+        "id": 48,
+        "title": "Creating A Guid Using AngularJS And NodeJS",
+        "description": "In this article, we are going to learn to create a GUID at client side using AngularJS and NodeJS.",
+        "link": "https://www.c-sharpcorner.com/article/creating-a-guid-using-angularjs-and-nodejs/",
+        "tags": [
+            "angular"
+        ],
+        "source": "C# Corner",
+        "views": "42.7k",
+        "date": "Jun 14, 2016"
+    },
+    {
+        "id": 94,
+        "title": "Creating a Random String for Authentication Token",
+        "description": "This blog show how to Create a Random String for Authentication Token.",
+        "link": "https://www.c-sharpcorner.com/blogs/creating-a-random-string-for-authentication-token1",
+        "tags": [
+            "asp-dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "39.3k",
+        "date": "Jun 05, 2015"
+    },
+    {
+        "id": 79,
+        "title": "Reading Node Count in Xml using LINQ to XML",
+        "description": "This blog is to provide a way to get the count of a particular node in an xml.",
+        "link": "https://www.c-sharpcorner.com/blogs/reading-node-count-in-xml-using-linq-to-xml",
+        "tags": [
+            "algorithms-in-csharp"
+        ],
+        "source": "C# Corner",
+        "views": "32.6k",
+        "date": "Apr 19, 2016"
+    },
+    {
+        "id": 28,
+        "title": "Cancellation Token in C#",
+        "description": "This article provides a comprehensive overview of using CancellationToken and CancellationTokenSource in C# for managing asynchronous operations. It covers key components, usage, handling, and best practices effectively.",
+        "link": "https://www.c-sharpcorner.com/article/cancellation-token-in-c-sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "32.3k",
+        "date": "Nov 15, 2023"
+    },
+    {
+        "id": 61,
+        "title": "What is Reflection In C#",
+        "description": "Introduction to reflection: Reflection is a powerful feature in C# that allows developers to inspect and manipulate types, methods, properties, and other elements of code dynamically at runtime. It enables tasks such as creating instances of types, binding types to existing objects, accessing attributes, and invoking methods.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/what-is-reflection-in-C-Sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "31.9k",
+        "date": "Jun 12, 2015"
+    },
+    {
+        "id": 51,
+        "title": "Create Your Own HttpHandler In C#",
+        "description": "The purpose of this article would be to implement HttpHandler in order to allow file download only by logged in users and stop for anyone else.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/create-your-own-httphandler-in-csharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "31.4k",
+        "date": "Sep 26, 2015"
+    },
+    {
+        "id": 86,
+        "title": "Executing Dynamic Logical Expressions in C#",
+        "description": "In this blog, we will see how to execute a logical expression in a string format.",
+        "link": "https://www.c-sharpcorner.com/blogs/executing-dynamic-logical-expressions-in-c-sharp1",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "30.4k",
+        "date": "Jul 14, 2015"
+    },
+    {
+        "id": 50,
+        "title": "Efficient Data Copying with AutoMapper in C#",
+        "description": "Discover how to configure profiles, handle complex mappings, customize type conversions, and utilize features like flattening, null substitution, and reverse mapping for efficient data transformations in your applications.",
+        "link": "https://www.c-sharpcorner.com/article/working-with-automapper/",
+        "tags": [
+            "dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "28.8k",
+        "date": "Feb 25, 2016"
+    },
+    {
+        "id": 84,
+        "title": "Getting Data from a GridView in DataSource",
+        "description": "In this blog you will learn how to get data from a GridView in DataSource.",
+        "link": "https://www.c-sharpcorner.com/blogs/getting-data-from-a-gridview-in-datasource1",
+        "tags": [
+            "asp-dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "24.1k",
+        "date": "Aug 08, 2015"
+    },
+    {
+        "id": 69,
+        "title": "Using Moment.JS In Node.Js",
+        "description": "In this blog, you will see how to use Moment.JS In Node.Js.",
+        "link": "https://www.c-sharpcorner.com/blogs/using-momentjs-in-nodejs",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "23.7k",
+        "date": "Jul 10, 2016"
+    },
+    {
+        "id": 95,
+        "title": "Getting Client Specific Information using C# ",
+        "description": "In this blog you will learn learn Client Specific Information using C# .",
+        "link": "https://www.c-sharpcorner.com/blogs/getting-client-specific-information-using-c-sharp1",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "22.6k",
+        "date": "May 29, 2015"
+    },
+    {
+        "id": 82,
+        "title": "Get Count Of A Substring In A String Without Using Loops",
+        "description": "This article will let us know on how to get count of a substring in a string without using loops",
+        "link": "https://www.c-sharpcorner.com/blogs/get-count-of-a-substring-in-a-string-without-using-loops1",
+        "tags": [
+            "algorithms-in-csharp"
+        ],
+        "source": "C# Corner",
+        "views": "18.3k",
+        "date": "Sep 03, 2015"
+    },
+    {
+        "id": 23,
+        "title": "CI/CD Pipeline for a .NET Web API Application in Azure DevOps",
+        "description": "Continuous Integration/Continuous Deployment (CI/CD) pipelines play a pivotal role in achieving this, enabling developers to build, test, and deploy their code efficiently. For .NET Web API applications, Azure DevOps offers a robust platform to establish a streamlined CI/CD pipeline.",
+        "link": "https://www.c-sharpcorner.com/article/cicd-pipeline-for-a-net-web-api-application-in-azure-devops/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "16.5k",
+        "date": "Nov 21, 2023"
+    },
+    {
+        "id": 89,
+        "title": "Using Keywords as Variables in C#",
+        "description": "In this blog we will see how to use the keywords in C# as variables.",
+        "link": "https://www.c-sharpcorner.com/blogs/using-keywords-as-variables-in-c-sharp1",
+        "tags": [
+            "algorithms-in-csharp"
+        ],
+        "source": "C# Corner",
+        "views": "16.3k",
+        "date": "Jul 02, 2015"
+    },
+    {
+        "id": 27,
+        "title": "Keyed Dependency Injection in .NET 8",
+        "description": "Keyed dependency injection, introduced in .NET 8, is a powerful feature allowing service resolution based on specific keys. This enables managing multiple implementations of the same interface efficiently. Learn about its implementation, usage restrictions, and how it enhances flexibility in application design, ensuring a valuable addition to .NET developers' toolkits.",
+        "link": "https://www.c-sharpcorner.com/article/keyed-dependency-injection-in-net-8/",
+        "tags": [
+            "dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "15.6k",
+        "date": "Nov 16, 2023"
+    },
+    {
+        "id": 70,
+        "title": "Displaying Log And Error Log In VS Code",
+        "description": "This blog is to teach you how to display log and error in Visual Studio Code Debug Window.",
+        "link": "https://www.c-sharpcorner.com/blogs/displaying-log-and-error-log-in-vs-code",
+        "tags": [
+            "visual-studio"
+        ],
+        "source": "C# Corner",
+        "views": "15.5k",
+        "date": "Jul 10, 2016"
+    },
+    {
+        "id": 78,
+        "title": "XML Creation using LINQ to XML",
+        "description": "This blog is for XML creation using LINQ to XML.",
+        "link": "https://www.c-sharpcorner.com/blogs/xml-creation-using-linq-to-xml",
+        "tags": [
+            "xml"
+        ],
+        "source": "C# Corner",
+        "views": "15.5k",
+        "date": "Apr 19, 2016"
+    },
+    {
+        "id": 92,
+        "title": "Entity Framework GUID Primary Key Error",
+        "description": "This blog is to help resolve one of the errors that we face data in a table with Guid as Primary Key.",
+        "link": "https://www.c-sharpcorner.com/blogs/entity-framework-guid-primary-key-error1",
+        "tags": [
+            "dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "15.3k",
+        "date": "Jun 13, 2015"
+    },
+    {
+        "id": 16,
+        "title": "Concurrent Collections in C#",
+        "description": "Unlock the power of concurrency in C# with a deep dive into concurrent collections. From ConcurrentDictionary for thread-safe dictionaries to BlockingCollection for versatile blocking operations, master efficient and safe multi-threaded programming.",
+        "link": "https://www.c-sharpcorner.com/article/concurrent-collections-in-c-sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "14k",
+        "date": "Jan 12, 2024"
+    },
+    {
+        "id": 34,
+        "title": "Azure Blob Storage in C#",
+        "description": "Azure Blob Storage is a highly scalable cloud storage solution in Azure, facilitating the management of unstructured data. Using C# and the Azure.Storage.Blobs package, developers can efficiently perform operations such as creating containers, uploading and downloading blobs, listing blobs, and accessing blob metadata. This integration empowers applications to seamlessly utilize cloud-based storage capabilities.",
+        "link": "https://www.c-sharpcorner.com/article/azure-blob-storage-in-c-sharp/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "13.6k",
+        "date": "Nov 01, 2023"
+    },
+    {
+        "id": 46,
+        "title": "Single Page Application in AngularJS",
+        "description": "This article is to show how to create a single page application in AngularJS.",
+        "link": "https://www.c-sharpcorner.com/article/single-page-application-in-angularjs/",
+        "tags": [
+            "angular"
+        ],
+        "source": "C# Corner",
+        "views": "12.5k",
+        "date": "Jun 18, 2016"
+    },
+    {
+        "id": 60,
+        "title": "All About Zip Files in C#",
+        "description": "This article explains how to deal with Zip files in your project.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/all-around-zip-files-in-C-Sharp/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "12.3k",
+        "date": "Jun 21, 2015"
+    },
+    {
+        "id": 31,
+        "title": "IOptions and IOptionsSnapshot Interfaces",
+        "description": "The provided example for using IOptions<T> and IOptionsSnapshot<T> illustrates their usage within the ConfigureServices method and in a service or controller, giving readers a practical understanding of how these interfaces can be integrated into their own applications.",
+        "link": "https://www.c-sharpcorner.com/article/ioptions-and-ioptionssnapshot-interfaces/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "12.1k",
+        "date": "Nov 07, 2023"
+    },
+    {
+        "id": 56,
+        "title": "Implementing Arithmetic Calculations in GridView",
+        "description": "In this article you will learn how to implement Arithmetic Calculations in GridView.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/implementing-arithmetic-calculations-in-gridview/",
+        "tags": [
+            "asp-dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "11.7k",
+        "date": "Jul 29, 2015"
+    },
+    {
+        "id": 44,
+        "title": "Creating API In Node.js",
+        "description": "In this article, you will learn how to create API in Node.js.",
+        "link": "https://www.c-sharpcorner.com/article/creating-api-in-node-js/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "11.1k",
+        "date": "Jul 22, 2016"
+    },
+    {
+        "id": 74,
+        "title": "XML as a Parameter in SQL Query",
+        "description": "This blog is to show how to handle XML parameter  in a SQL Query.",
+        "link": "https://www.c-sharpcorner.com/blogs/xml-as-a-parameter-in-sql-query",
+        "tags": [
+            "xml"
+        ],
+        "source": "C# Corner",
+        "views": "10.9k",
+        "date": "Jun 09, 2016"
+    },
+    {
+        "id": 52,
+        "title": "Learning Node.JS And Express - Part 3 (Creating API)",
+        "description": "In this article you will learn about Node.JS and Express. This is Part 3 of the series.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/learning-node-js-and-express-part-3-creating-api/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "10.6k",
+        "date": "Sep 22, 2015"
+    },
+    {
+        "id": 45,
+        "title": "Install And Run A NodeJS Application",
+        "description": "In this article, we will learn how to install NodeJS, test it and create a sample application in a short span of time.",
+        "link": "https://www.c-sharpcorner.com/article/install-and-run-a-nodejs-application/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "10.1k",
+        "date": "Jun 23, 2016"
+    },
+    {
+        "id": 54,
+        "title": "Learning Node.JS and Express - Part 1 (Configuration)",
+        "description": "In this article I will show you how to configure Node.JS and Express.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/learning-node-js-and-express-part-1-configuration/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "9.7k",
+        "date": "Sep 07, 2015"
+    },
+    {
+        "id": 53,
+        "title": "Learning Node.js And Express - Part 2 (Connecting DB)",
+        "description": "In this article I will show you how to connect Node.js and Express.",
+        "link": "https://www.c-sharpcorner.com/UploadFile/07c1e7/learning-node-js-and-express-part-2-connecting-db/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "9.6k",
+        "date": "Sep 12, 2015"
+    },
+    {
+        "id": 49,
+        "title": "Deploying NodeJS On Heroku",
+        "description": "In this article you will learn how to deploy NodeJS application on Heroku.",
+        "link": "https://www.c-sharpcorner.com/article/deploying-nodejs-on-heroku/",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "9.3k",
+        "date": "May 28, 2016"
+    },
+    {
+        "id": 75,
+        "title": "Creating Node Application Using Express Generator",
+        "description": "This blog is to create a node js application using Express Generator package.",
+        "link": "https://www.c-sharpcorner.com/blogs/creating-node-application-using-express-generator",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "8.3k",
+        "date": "May 21, 2016"
+    },
+    {
+        "id": 14,
+        "title": "Rate Limiting Algorithms in .NET Core",
+        "description": "We\u2019ll explore various rate limiting algorithms in the context of .NET Core, providing code snippets for implementing Token Bucket, Sliding Window, Fixed Window, and Concurrency limiters.",
+        "link": "https://www.c-sharpcorner.com/article/mastering-rate-limiting-algorithms-in-net-core/",
+        "tags": [
+            "algorithms-in-csharp"
+        ],
+        "source": "C# Corner",
+        "views": "8.1k",
+        "date": "Jan 24, 2024"
+    },
+    {
+        "id": 43,
+        "title": "Getting Started with Azure Durable Functions",
+        "description": "Getting Started with Azure Durable Functions using C#.",
+        "link": "https://www.c-sharpcorner.com/article/getting-started-with-azure-durable-functions/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "7.6k",
+        "date": "Mar 22, 2023"
+    },
+    {
+        "id": 47,
+        "title": "Multi-Desktop Feature in Windows 10",
+        "description": "This article will describe the multi-desktop feature in Windows 10.",
+        "link": "https://www.c-sharpcorner.com/article/multi-desktop-feature-in-windows-10/",
+        "tags": [
+            "windows"
+        ],
+        "source": "C# Corner",
+        "views": "7.4k",
+        "date": "Jun 18, 2016"
+    },
+    {
+        "id": 64,
+        "title": "Python Dictionary to Blob Storage",
+        "description": "This blog is to explain how to save Python dictionary data to Azure blob storage.  Convert the dictionary to a json string. Save the json string to a blob storage location.",
+        "link": "https://www.c-sharpcorner.com/blogs/python-dictionary-to-blob-storage",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "7.1k",
+        "date": "Nov 3, 2023"
+    },
+    {
+        "id": 63,
+        "title": "Importing Local Package in Go Lang",
+        "description": "This blog is about how to import a local package in GoLang. In GoLang, code is organized into packages instead of namespaces, as in C#. Learn how to create and import packages with a practical example.",
+        "link": "https://www.c-sharpcorner.com/blogs/importing-local-package-in-go-lang",
+        "tags": [
+            "go"
+        ],
+        "source": "C# Corner",
+        "views": "6.8k",
+        "date": "Mar 16, 2024"
+    },
+    {
+        "id": 68,
+        "title": "Setting custom shortcuts in Visual Studio Code",
+        "description": "In this blog, we are going to see how to set our own custom shortcuts in Visual Studio Code.",
+        "link": "https://www.c-sharpcorner.com/blogs/setting-custom-shortcuts-in-visual-studio-code",
+        "tags": [
+            "visual-studio"
+        ],
+        "source": "C# Corner",
+        "views": "6.5k",
+        "date": "Jul 15, 2016"
+    },
+    {
+        "id": 87,
+        "title": "Quering a List using LINQ",
+        "description": "This blog is to show an example on how to query a C# list collection using LINQ.",
+        "link": "https://www.c-sharpcorner.com/blogs/quering-a-list-using-linq1",
+        "tags": [
+            "linq"
+        ],
+        "source": "C# Corner",
+        "views": "6.5k",
+        "date": "Jul 08, 2015"
+    },
+    {
+        "id": 38,
+        "title": "Exploring Patterns in Azure Durable Functions",
+        "description": "This article explains the patterns of azure durable functions.",
+        "link": "https://www.c-sharpcorner.com/article/exploring-patterns-in-azure-durable-functions/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "6.3k",
+        "date": "Oct 09, 2023"
+    },
+    {
+        "id": 66,
+        "title": "Get Count of Distinct Property Value from an Array of Object in Python",
+        "description": "This blog explains how can we get count of a distinct property from an array of object",
+        "link": "https://www.c-sharpcorner.com/blogs/get-count-of-distinct-property-value-from-an-array-of-object-in-python2",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "6.2k",
+        "date": "Jul 27, 2023"
+    },
+    {
+        "id": 72,
+        "title": "Connecting Nodejs Application to MySQL",
+        "description": "In this blog, you will learn how to connect Nodejs Application to MySQL.",
+        "link": "https://www.c-sharpcorner.com/blogs/connecting-nodejs-application-to-mysql",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "6.1k",
+        "date": "Jul 04, 2016"
+    },
+    {
+        "id": 88,
+        "title": "Creating a Fixed Menu Control",
+        "description": "This blog is to guide you on how to create a fixed menu panel on a page.",
+        "link": "https://www.c-sharpcorner.com/blogs/creating-a-fixed-menu-control1",
+        "tags": [
+            "asp-dotnet"
+        ],
+        "source": "C# Corner",
+        "views": "6.1k",
+        "date": "Jul 02, 2015"
+    },
+    {
+        "id": 33,
+        "title": "Azure Redis Cache with C# for High-Performance Applications",
+        "description": "This article explanation of Azure Redis Cache and its integration with C# is thorough and provides a good understanding of the topic. You have covered the essential steps to set up Azure Redis Cache, retrieve access keys, and integrate it with C# using the StackExchange.Redis library. Additionally, your provided code example illustrates how to connect to Azure Redis Cache and refresh the expiration time of a cache key.",
+        "link": "https://www.c-sharpcorner.com/article/azure-redis-cache-with-c-sharp-for-high-performance-applications/",
+        "tags": [
+            "redis"
+        ],
+        "source": "C# Corner",
+        "views": "6k",
+        "date": "Nov 02, 2023"
+    },
+    {
+        "id": 15,
+        "title": "Understanding and Utilizing .NET Core Middleware",
+        "description": "This article is about middleware in .net core and how to create custom middleware. Middleware is a key component in the execution pipeline of .NET Core applications, handling requests and responses. Learn how to create custom middleware and pass data between components for enhanced functionality.",
+        "link": "https://www.c-sharpcorner.com/article/understanding-and-utilizing-net-core-middleware/",
+        "tags": [
+            "dotnetcore"
+        ],
+        "source": "C# Corner",
+        "views": "5.7k",
+        "date": "Jan 18, 2024"
+    },
+    {
+        "id": 71,
+        "title": "Ways To Install Packages In NodeJs App",
+        "description": "In this blog, we are going to see the different ways of installing a package in Nodejs application.",
+        "link": "https://www.c-sharpcorner.com/blogs/ways-to-install-packages-in-nodejs-app",
+        "tags": [
+            "nodejs"
+        ],
+        "source": "C# Corner",
+        "views": "5.3k",
+        "date": "Jul 10, 2016"
+    },
+    {
+        "id": 17,
+        "title": "Exploring Logical and Physical Partitions in Azure Cosmos DB",
+        "description": "Azure Cosmos DB, Microsoft's globally distributed, multi-model database service, operates on the foundation of logical and physical partitions. Let's delve into their nuances, accompanied by code snippets and examples, to elucidate their functionalities.",
+        "link": "https://www.c-sharpcorner.com/article/exploring-logical-and-physical-partitions-in-azure-cosmos-db/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "4.8k",
+        "date": "Dec 03, 2023"
+    },
+    {
+        "id": 19,
+        "title": "React Native Development: Building a CI/CD Pipeline with Azure DevOps",
+        "description": "In the dynamic realm of mobile app development, React Native has become a prominent framework for cross-platform apps. Ensuring a seamless and error-free deployment demands a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline. Azure DevOps, with its suite of tools, provides an ideal solution for automating build, test, and deployment processes for React Native apps.",
+        "link": "https://www.c-sharpcorner.com/article/react-native-development-building-a-cicd-pipeline-with-azure-devops/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "4.8k",
+        "date": "Nov 27, 2023"
+    },
+    {
+        "id": 3,
+        "title": "Azure Service Bus Queues - The Microservices Powerhouse",
+        "description": "Unlock the power of seamless communication in microservices with Azure Service Bus Queues. Learn how this reliable messaging service enables decoupled, scalable, and resilient architectures, making it a vital tool for building modern distributed applications in the cloud.",
+        "link": "https://www.c-sharpcorner.com/article/azure-service-bus-queues-the-microservices-powerhouse/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "4.7k",
+        "date": "Apr 11, 2025"
+    },
+    {
+        "id": 1,
+        "title": "Implementing Discord Social Login in Python",
+        "description": "Implement Discord social login in a Flask app using OAuth2. Authenticate users, fetch profile data, and manage tokens securely with Python, requests-oauthlib, and environment variables. Includes Swagger API docs and avatar URL support.",
+        "link": "https://www.c-sharpcorner.com/article/implementing-discord-social-login-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "4.4k",
+        "date": "Apr 24, 2025"
+    },
+    {
+        "id": 73,
+        "title": "Jagged Array in C#",
+        "description": "In this blog you will learn about jagged array in C#.",
+        "link": "https://www.c-sharpcorner.com/blogs/jagged-array-in-c-sharp",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "4.2k",
+        "date": "Jun 16, 2016"
+    },
+    {
+        "id": 81,
+        "title": "Checking List of String for Duplication",
+        "description": "This blog will help to check whether a list of string contains duplicates or not.",
+        "link": "https://www.c-sharpcorner.com/blogs/checking-list-of-string-for-duplication1",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "4.2k",
+        "date": "Sep 03, 2015"
+    },
+    {
+        "id": 41,
+        "title": "Navigation in React Native",
+        "description": "The article is a detailed description on how to add navigation to a react native app",
+        "link": "https://www.c-sharpcorner.com/article/navigation-in-react-native/",
+        "tags": [
+            "react-native"
+        ],
+        "source": "C# Corner",
+        "views": "4.1k",
+        "date": "Apr 17, 2023"
+    },
+    {
+        "id": 5,
+        "title": "Understanding Azure WebJobs",
+        "description": "Azure WebJobs enable running background tasks within Azure App Service, supporting various scripts and programs, including Python and C#. They can be triggered manually, on a schedule, or continuously. Notably, WebJobs are compatible with both Windows and Linux App Services.",
+        "link": "https://www.c-sharpcorner.com/article/understanding-azure-webjobs/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "3.6k",
+        "date": "Mar 18, 2025"
+    },
+    {
+        "id": 20,
+        "title": "FlatList in React Native",
+        "description": "FlatList is a vital component in React Native for efficiently rendering large lists of data. Learn its installation and basic usage, key features like data, renderItem, and keyExtractor props, and optimization techniques, including virtualization and item separators. Explore advanced configurations like horizontal lists, grid layouts, handling end-reached events, controlling scrolling behavior, and dynamically adjusting item heights.",
+        "link": "https://www.c-sharpcorner.com/article/exploring-flatlist-in-react-native/",
+        "tags": [
+            "react-native"
+        ],
+        "source": "C# Corner",
+        "views": "3.6k",
+        "date": "Nov 27, 2023"
+    },
+    {
+        "id": 40,
+        "title": "Async Storage in react native",
+        "description": "This article covers the implementation of Async Storage in react nativeive",
+        "link": "https://www.c-sharpcorner.com/article/async-storage-in-react-native/",
+        "tags": [
+            "react-native"
+        ],
+        "source": "C# Corner",
+        "views": "3.6k",
+        "date": "May 01, 2023"
+    },
+    {
+        "id": 77,
+        "title": "AngularJs using ng-src Directive",
+        "description": "In this blog, we are going to see how to use ng-src directive.",
+        "link": "https://www.c-sharpcorner.com/blogs/angular-js-using-ngsrc-directive",
+        "tags": [
+            "angular"
+        ],
+        "source": "C# Corner",
+        "views": "3.6k",
+        "date": "May 14, 2016"
+    },
+    {
+        "id": 32,
+        "title": "Load Bulk Data to Azure Table Storage",
+        "description": "This article provides all the information about how to utilize the Azure SDK for Python to load bulk data into Azure Table Storage. The script's step-by-step breakdown effectively guides users through the process, including necessary setup and configuration, as well as the bulk data insertion steps.",
+        "link": "https://www.c-sharpcorner.com/article/load-bulk-data-to-azure-table-storage/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "3.4k",
+        "date": "Nov 03, 2023"
+    },
+    {
+        "id": 36,
+        "title": "Zustand in a React.js Application",
+        "description": "This article talks about implementing Zustand state management framework in a react js application",
+        "link": "https://www.c-sharpcorner.com/article/implementing-zustand-in-a-react-js-application/",
+        "tags": [
+            "react"
+        ],
+        "source": "C# Corner",
+        "views": "3.2k",
+        "date": "Oct 25, 2023"
+    },
+    {
+        "id": 37,
+        "title": "Axios with React/React Native for HTTP Requests",
+        "description": "This article explains how to use Axios library in react native for making http requests",
+        "link": "https://www.c-sharpcorner.com/article/axios-with-reactreact-native-for-http-requests/",
+        "tags": [
+            "react-native"
+        ],
+        "source": "C# Corner",
+        "views": "3.2k",
+        "date": "Oct 23, 2023"
+    },
+    {
+        "id": 21,
+        "title": "Streamlining Azure DevOps Management with Excel",
+        "description": "In the dynamic landscape of software development, effective project management is non-negotiable. Microsoft Azure DevOps emerges as a powerhouse, offering a suite of tools covering the entire software development lifecycle. Among its array of features, the integration of Excel Connector proves to be a game-changer, empowering teams to manage projects more efficiently by leveraging the familiar and flexible environment of Excel.",
+        "link": "https://www.c-sharpcorner.com/article/streamlining-azure-devops-management-with-excel/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "3.1k",
+        "date": "Nov 22, 2023"
+    },
+    {
+        "id": 90,
+        "title": "Getting Code Execution Time",
+        "description": "This blog will help to get the time taken for execution for a certain piece of code.",
+        "link": "https://www.c-sharpcorner.com/blogs/getting-code-execution-time1",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "3.1k",
+        "date": "Jun 22, 2015"
+    },
+    {
+        "id": 11,
+        "title": "Azure service bus queue with .net core and python",
+        "description": "This article demonstrates how to implement Azure Service Bus queues using both .NET Core and Python. It covers creating a message sender with a web API in .NET Core and a receiver using a console app.",
+        "link": "https://www.c-sharpcorner.com/article/azure-service-bus-queue-with-net-core-and-python/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "3k",
+        "date": "Oct 20, 2024"
+    },
+    {
+        "id": 29,
+        "title": "Tuples in C# with examples",
+        "description": "This article on tuples in C# is well-structured, providing a clear and detailed explanation of the topic. It covers the basics, named tuples, returning multiple values from a method, tuple deconstruction, and more.",
+        "link": "https://www.c-sharpcorner.com/article/tuples-in-c-sharp-with-examples/",
+        "tags": [
+            "csharp-programming"
+        ],
+        "source": "C# Corner",
+        "views": "3k",
+        "date": "Nov 15, 2023"
+    },
+    {
+        "id": 65,
+        "title": "Update DataFrame Column in Python",
+        "description": "This blog is to explain how to update a data frame column in python",
+        "link": "https://www.c-sharpcorner.com/blogs/update-dataframe-column-in-python2",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "3k",
+        "date": "Jul 27, 2023"
+    },
+    {
+        "id": 25,
+        "title": "Building APIs with Flask and flask_restful in Python",
+        "description": "This article explores the process of building robust APIs with Flask and its extension, flask_restful, in Python. It covers setting up flask_restful, creating a basic API, resource management, request parsing with reqparse, and error handling using abort. By understanding these features, you can lay a solid foundation for crafting efficient APIs tailored to your application's needs.",
+        "link": "https://www.c-sharpcorner.com/article/building-apis-with-flask-and-flaskrestful-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "2.9k",
+        "date": "Nov 18, 2023"
+    },
+    {
+        "id": 18,
+        "title": "Azure Cosmos DB's NoSQL API",
+        "description": "NoSQL databases have revolutionized data storage by offering enhanced flexibility and scalability compared to traditional relational databases. Among these, Azure Cosmos DB stands out as a robust platform supporting various NoSQL APIs, providing developers with diverse options tailored to specific data models. In this article, we'll explore the nuances of Azure Cosmos DB's NoSQL API, uncovering its features and advantages.",
+        "link": "https://www.c-sharpcorner.com/article/azure-cosmos-dbs-nosql-api/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "2.6k",
+        "date": "Nov 27, 2023"
+    },
+    {
+        "id": 22,
+        "title": "Deploying a Python Application to Azure",
+        "description": "Deploying a Python application to Azure enables seamless scalability, robust performance, and easy maintenance. In this guide, we\u2019ll walk through the process using Azure App Service, a platform that facilitates deploying and managing web applications",
+        "link": "https://www.c-sharpcorner.com/article/deploying-a-python-application-to-azure/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "2.6k",
+        "date": "Nov 21, 2023"
+    },
+    {
+        "id": 30,
+        "title": "React.js Test Cases",
+        "description": "Testing React.js components is well-structured and informative. It covers the essential aspects of testing, from setting up the testing environment to implementing different types of test cases using the Jest and React Testing Library. The inclusion of practical examples with clear explanations makes it easy for developers, especially those new to testing in React, to understand the concepts and get started.",
+        "link": "https://www.c-sharpcorner.com/article/react-js-test-cases/",
+        "tags": [
+            "react"
+        ],
+        "source": "C# Corner",
+        "views": "2.5k",
+        "date": "Nov 10, 2023"
+    },
+    {
+        "id": 2,
+        "title": "Convert .media to MP4 with FFmpeg: Reliable Webcam Recording Solution",
+        "description": "Learn how to easily convert .media files from webcam recordings to the widely supported MP4 format using FFmpeg.",
+        "link": "https://www.c-sharpcorner.com/article/convert-media-to-mp4-with-ffmpeg-reliable-webcam-recording-solution/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "2.4k",
+        "date": "Apr 21, 2025"
+    },
+    {
+        "id": 42,
+        "title": "Azure Logic App",
+        "description": "In this article, you will learn about Azure Logic App.",
+        "link": "https://www.c-sharpcorner.com/article/azure-logic-app2/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "2.4k",
+        "date": "Apr 11, 2023"
+    },
+    {
+        "id": 35,
+        "title": "Hooks in ReactJS",
+        "description": "This article provides a clear and informative introduction to some of the most commonly used React Hooks. It covers useState, useEffect, useRef, and useContext with concise explanations and code samples for each hook's usage.",
+        "link": "https://www.c-sharpcorner.com/article/hooks-in-reactjs2/",
+        "tags": [
+            "react"
+        ],
+        "source": "C# Corner",
+        "views": "2.3k",
+        "date": "Oct 31, 2023"
+    },
+    {
+        "id": 26,
+        "title": "Flask in Python",
+        "description": "Flask, a nimble and versatile Python web framework renowned for its simplicity, offers an uncomplicated approach to web application development. Its minimalist design provides the essentials for swiftly establishing a functional web server. Let's delve into the fundamental steps of setting up a Flask application.",
+        "link": "https://www.c-sharpcorner.com/article/flask-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "2.1k",
+        "date": "Nov 17, 2023"
+    },
+    {
+        "id": 10,
+        "title": "Deploying Infrastructure with Terraform on Azure",
+        "description": "This guide covers setting up the Azure environment, writing Terraform scripts, automating resource provisioning, and managing cloud infrastructure with efficiency and scalability in a secure manner.",
+        "link": "https://www.c-sharpcorner.com/article/deploying-infrastructure-with-terraform-on-azure/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "2k",
+        "date": "Nov 09, 2024"
+    },
+    {
+        "id": 24,
+        "title": "Building a Robust API with Flask, flask_restful, and flask_sqlalchemy in P...",
+        "description": "Developing robust APIs is fundamental for modern web applications, enabling seamless communication between different systems. Python, known for its simplicity and versatility, offers powerful tools like Flask and its extension flask_restful, making API development straightforward and efficient.",
+        "link": "https://www.c-sharpcorner.com/article/building-a-robust-api-with-flask-flaskrestful-and-flasksqlalchemy-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "2k",
+        "date": "Nov 20, 2023"
+    },
+    {
+        "id": 8,
+        "title": "Azure Computer Vision - Object Detection",
+        "description": "This article is about exploring object detection in images using Azure Computer Vision service. Azure AI Vision offers robust object detection capabilities, enabling applications to identify and locate objects within images by providing bounding box coordinates and confidence scores.",
+        "link": "https://www.c-sharpcorner.com/article/azure-computer-vision-object-detection/",
+        "tags": [
+            "azure"
+        ],
+        "source": "C# Corner",
+        "views": "1.6k",
+        "date": "Mar 10, 2025"
+    },
+    {
+        "id": 13,
+        "title": "Learning Priority Queue in Python",
+        "description": "A Priority Queue in Python can be implemented using the heapq module, which provides efficient min-heap operations like heappush, heappop, and heapreplace. Unlike a regular queue, a priority queue processes elements based on priority, ensuring the smallest element is dequeued first.",
+        "link": "https://www.c-sharpcorner.com/article/learning-priority-queue-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.6k",
+        "date": "Oct 03, 2024"
+    },
+    {
+        "id": 12,
+        "title": "Explaining FastAPI in Python",
+        "description": "FastAPI is a modern Python framework that simplifies API development with built-in support for async operations, data validation using Pydantic, and automatic generation of Swagger and ReDoc documentation.",
+        "link": "https://www.c-sharpcorner.com/article/explaining-fastapi-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.5k",
+        "date": "Oct 15, 2024"
+    },
+    {
+        "id": 4,
+        "title": "Understanding Namespaces in Python",
+        "description": "Namespaces in Python help manage variable scope and prevent conflicts. This article explains the LEGB rule, which determines how Python looks up variables in Local, Enclosing, Global, and Built-in scopes.",
+        "link": "https://www.c-sharpcorner.com/article/understanding-namespaces-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.4k",
+        "date": "Mar 21, 2025"
+    },
+    {
+        "id": 7,
+        "title": "Understanding Decorators in Python",
+        "description": "Decorators in Python are powerful tools that modify the behavior of functions or classes without changing their code. They enable code reusability, logging, authentication, and more.",
+        "link": "https://www.c-sharpcorner.com/article/decorators-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.3k",
+        "date": "Mar 12, 2025"
+    },
+    {
+        "id": 6,
+        "title": "Understanding Context Manager in Python",
+        "description": "\u200bPython's context managers, implemented via the statement, ensure efficient resource management by automating setup and teardown operations, such as opening and closing files, even when exceptions occur.",
+        "link": "https://www.c-sharpcorner.com/article/understanding-context-manager-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.2k",
+        "date": "Mar 15, 2025"
+    },
+    {
+        "id": 9,
+        "title": "Understanding Lists in Python",
+        "description": "This article is around how python stores list and works with it. Python uses lists instead of built-in arrays. Lists are dynamic, memory-efficient, and support fast insertions. Unlike arrays, they grow automatically, while tuples remain immutable and are optimized for retrieval.",
+        "link": "https://www.c-sharpcorner.com/article/understanding-lists-in-python/",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.1k",
+        "date": "Feb 27, 2025"
+    },
+    {
+        "id": 62,
+        "title": "Understanding Python ChainMap",
+        "description": "Learn how Python's ChainMap simplifies merging multiple dictionaries while preserving their individual identities. This article covers key features, practical use cases, and examples for efficient data management in Python.",
+        "link": "https://www.c-sharpcorner.com/blogs/understanding-python-chainmap",
+        "tags": [
+            "python"
+        ],
+        "source": "C# Corner",
+        "views": "1.1k",
+        "date": "Feb 13, 2025"
+    },
+    {
+        "id": 85,
+        "title": "Joining DataTables using LINQ in C#",
+        "description": "In this blog we will learn how to merge two DataTable using LINQ.",
+        "link": "https://www.c-sharpcorner.com/blogs/joining-datatables-using-linq-in-c-sharp1",
+        "tags": [
+            "linq"
+        ],
+        "source": "C# Corner",
+        "views": "639",
+        "date": "Aug 05, 2015"
+    }
+]
