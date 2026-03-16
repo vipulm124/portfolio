@@ -98,18 +98,6 @@
         "date": "Sep 02, 2024"
     },
     {
-        "id": 106,
-        "title": "The Async Trap: Why Not Every Python Function Should Be Awaitable",
-        "description": "In the modern Python ecosystem, asyncio has become the shiny new toy that everyone wants to play with. With the rise of high-performance frameworks like FastAPI and Starlette, there’s a growing temptation to prefix every def with an async and every call with an await.",
-        "link": "https://medium.com/@vipulm124/the-async-trap-why-not-every-python-function-should-be-awaitable-76a64df5df4f",
-        "tags": [
-            "python"
-        ],
-        "source": "Medium",
-        "views": "6",
-        "date": "Mar 14, 2026"
-    },
-    {
         "id": 105,
         "title": "Reclaiming GBs of Storage with a Simple Python Janitor",
         "description": "As developers, our local machines are often graveyards of abandoned side projects. While the source code of these experiments is lightweight, their dependencies are anything but. If you work within the JavaScript ecosystem, you know the culprit: the node_modules folder.",
