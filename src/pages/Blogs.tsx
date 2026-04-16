@@ -8,12 +8,12 @@ export default function Blogs() {
     const mediumSource = "bg-black border border-[#333] text-white";
     const csharpSource = "bg-[#ff9900] text-white";
 
-    const SOURCE_PRIORITY = {
+    const SOURCE_PRIORITY: Record<string, number> = {
         "Medium": 1,
         "C# Corner": 2
     }
 
-    const parseViews = (views) => {
+    const parseViews = (views: string): number => {
         if (views.endsWith('k')) {
             return parseFloat(views.slice(0, -1)) * 1000;
         }
