@@ -1,5 +1,41 @@
 [
     {
+        "id": 109,
+        "title": "Building a Face Emotion Detection App with Grok‑4 and Streamlit",
+        "description": "In this tutorial-style walkthrough, you’ll learn how to build a web app that allows users to upload an image, processes it with Grok‑4 for emotion detection...",
+        "link": "https://medium.com/@vipulm124/building-a-face-emotion-detection-app-with-grok-4-and-streamlit-d46e2fef8961",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "1",
+        "date": "Mar 6, 2026"
+    },
+    {
+        "id": 108,
+        "title": "How I Automated My Monthly Receipt Management with Python, Gmail API, and Google Drive",
+        "description": "Stop manually downloading, unlocking, and organizing PDFs — let Python do it for you.We all have those repetitive tasks that eat away at our time. For me, it was managing my monthly insurance premium receipts. ",
+        "link": "https://medium.com/@vipulm124/python-heapq-whats-new-and-why-you-should-care-84c97aeeb1fe",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "1",
+        "date": "Apr 15, 2026"
+    },
+    {
+        "id": 107,
+        "title": "Python HeapQ: What’s New and Why You Should Care",
+        "description": "The heapq module has been a cornerstone of Python's standard library since Python 2.3, providing an elegant implementation of the heap queue algorithm (priority queue). ",
+        "link": "https://medium.com/@vipulm124/python-heapq-whats-new-and-why-you-should-care-84c97aeeb1fe",
+        "tags": [
+            "python"
+        ],
+        "source": "Medium",
+        "views": "1",
+        "date": "Apr 9, 2026"
+    },
+    {
         "id": 98,
         "title": "Making Python Functions Accept Both Sync and Async Callables",
         "description": "In Python development, especially when building utility functions or decorators, it’s common to pass other functions as arguments...",
@@ -8,7 +44,7 @@
             "python"
         ],
         "source": "Medium",
-        "views": "295",
+        "views": "371",
         "date": "Jul 5, 2025"
     },
     {
@@ -20,7 +56,7 @@
             "python"
         ],
         "source": "Medium",
-        "views": "160",
+        "views": "286",
         "date": "Nov 28, 2025"
     },
     {
@@ -32,7 +68,7 @@
             "python"
         ],
         "source": "Medium",
-        "views": "125",
+        "views": "202",
         "date": "Nov 05, 2025"
     },
     {
@@ -44,7 +80,7 @@
             "azure"
         ],
         "source": "Medium",
-        "views": "45",
+        "views": "67",
         "date": "Nov 13, 2025"
     },
     {
@@ -82,7 +118,7 @@
             "python"
         ],
         "source": "Medium",
-        "views": "83",
+        "views": "116",
         "date": "May 24, 2025"
     },
     {
@@ -94,7 +130,7 @@
             "reactjs"
         ],
         "source": "Medium",
-        "views": "20",
+        "views": "21",
         "date": "Sep 02, 2024"
     },
     {
@@ -106,7 +142,7 @@
             "python"
         ],
         "source": "Medium",
-        "views": "6",
+        "views": "12",
         "date": "Mar 14, 2026"
     },
     {

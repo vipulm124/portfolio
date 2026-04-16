@@ -8,6 +8,28 @@ export default function Blogs() {
     const mediumSource = "bg-black border border-[#333] text-white";
     const csharpSource = "bg-[#ff9900] text-white";
 
+    const SOURCE_PRIORITY = {
+        "Medium": 1,
+        "C# Corner": 2
+    }
+
+    const parseViews = (views) => {
+        if (views.endsWith('k')) {
+            return parseFloat(views.slice(0, -1)) * 1000;
+        }
+        return parseFloat(views) || 0;
+    };
+
+    const sortedBlogs = [...blogs].sort((a, b) => {
+        const aPriority = SOURCE_PRIORITY[a.source] || 999;
+        const bPriority = SOURCE_PRIORITY[b.source] || 999;
+        const sourceCompare = aPriority - bPriority;
+        if (sourceCompare !== 0) return sourceCompare;
+        const aViews = parseViews(a.views);
+        const bViews = parseViews(b.views);
+        return bViews - aViews;
+    });
+
     return (
         <div>
             <h1 className="text-4xl font-bold mb-8 tracking-tight">My Articles</h1>
@@ -17,7 +39,7 @@ export default function Blogs() {
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {blogs.map((blog) => (
+                {sortedBlogs.map((blog) => (
                     <div key={blog.id} className={cardClass}>
                         <div className="flex justify-between items-center text-xs text-color-muted mb-4">
                             <span className={`px-2 py-1 rounded font-semibold ${blog.source.toLowerCase().includes('medium') ? mediumSource : csharpSource}`}>
